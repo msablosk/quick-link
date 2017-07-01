@@ -1,0 +1,14 @@
+.button-center {
+    margin-top: .5rem;
+}    
+
+@media (min-width: 1080px) {
+
+    .first-row {
+        margin-top: 2rem;
+    }
+
+    .button-center {
+        margin-top: 1.75rem;
+    }
+}
